@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+
+comprovantes/
+
+.venv/
+.env
+
+.vscode/
